@@ -1,0 +1,2 @@
+nume='Nume1', prenume='Prenume1', mediaGenerala=30.7, crediteObtinute=24
+nume='Nume2', prenume='Prenume2', mediaGenerala=30.5, crediteObtinute=30
