@@ -13,7 +13,6 @@ public class HardDisk extends PCComponent {
     public HardDisk(Integer sizeGB, PortType dataPortType) {
         this.sizeGB = sizeGB;
         this.dataPortType = dataPortType;
-        this.setOptional(false);
     }
 
     public HardDisk(String manufacturer, String model, Integer sizeGB, Integer speedRPM, PortType dataPortType) {

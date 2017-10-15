@@ -11,7 +11,6 @@ public class PowerSupply extends PCComponent {
         this.manufacturer = manufacturer;
         this.model = model;
         this.power = power;
-        this.setOptional(false);
     }
 
     public String getManufacturer() {
